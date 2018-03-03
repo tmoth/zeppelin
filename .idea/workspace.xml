@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb03bad-d427-4403-80f5-bcd0405d42ce" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/sections-background/toastmasters-hero.jpg" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/hero.html" afterPath="$PROJECT_DIR$/_includes/hero.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/location-map.html" afterPath="$PROJECT_DIR$/_includes/location-map.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" afterPath="$PROJECT_DIR$/_includes/navigation.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/twitter-feed.html" afterPath="$PROJECT_DIR$/_includes/twitter-feed.html" />
-      <change beforePath="$PROJECT_DIR$/_sass/partials/_base.scss" afterPath="$PROJECT_DIR$/_sass/partials/_base.scss" />
-      <change beforePath="$PROJECT_DIR$/_sass/partials/_navigation.scss" afterPath="$PROJECT_DIR$/_sass/partials/_navigation.scss" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-114x114.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-57x57.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-72x72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/apple-touch-icon.png" afterPath="$PROJECT_DIR$/img/favicons/apple-touch-icon.png" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/browserconfig.xml" afterPath="$PROJECT_DIR$/img/favicons/browserconfig.xml" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/desktop.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon-160x160.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon-16x16.png" afterPath="$PROJECT_DIR$/img/favicons/favicon-16x16.png" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon-196x196.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon-32x32.png" afterPath="$PROJECT_DIR$/img/favicons/favicon-32x32.png" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/favicon.ico" afterPath="$PROJECT_DIR$/img/favicons/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/mstile-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/mstile-150x150.png" afterPath="$PROJECT_DIR$/img/favicons/mstile-150x150.png" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/mstile-310x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/mstile-310x310.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicons/mstile-70x70.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/venue/venue_0.jpg" afterPath="$PROJECT_DIR$/img/venue/venue_0.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/venue/venue_1.jpg" afterPath="$PROJECT_DIR$/img/venue/venue_1.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/venue/venue_2.jpg" afterPath="$PROJECT_DIR$/img/venue/venue_2.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/venue/venue_3.jpg" afterPath="$PROJECT_DIR$/img/venue/venue_3.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/venue/venue_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" afterPath="$PROJECT_DIR$/speakers.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="280" column="169" lean-forward="false" selection-start-line="280" selection-start-column="169" selection-end-line="280" selection-end-column="169" />
               <folding />
             </state>
           </provider>
@@ -81,6 +42,7 @@
       <find>right</find>
       <find>buy</find>
       <find>Event sche</find>
+      <find>canvas-map</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,8 +66,9 @@
         <option value="$PROJECT_DIR$/_sass/partials/_base.scss" />
         <option value="$PROJECT_DIR$/schedule.html" />
         <option value="$PROJECT_DIR$/speakers.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -271,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520030827497</updated>
-      <workItem from="1520030828648" duration="5705000" />
+      <workItem from="1520030828648" duration="6617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5705000" />
+    <option name="totallyTimeSpent" value="6617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1401" height="878" extended-state="6" />
@@ -290,7 +253,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15771028" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34189865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -414,14 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/location-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/twitter-feed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -478,18 +433,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="169" column="100" lean-forward="false" selection-start-line="169" selection-start-column="100" selection-end-line="169" selection-end-column="100" />
+        <state relative-caret-position="180">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="466">
+          <caret line="257" column="41" lean-forward="false" selection-start-line="257" selection-start-column="41" selection-end-line="257" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/location-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="280" column="169" lean-forward="false" selection-start-line="280" selection-start-column="169" selection-end-line="280" selection-end-column="169" />
           <folding />
         </state>
       </provider>
