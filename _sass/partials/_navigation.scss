@@ -39,8 +39,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
+        width: 306px;
         height: 60px;
         margin-right: 20px;
+        margin-left: -36px;
         transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
@@ -49,9 +51,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 185px;
+    width: 306px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 8px 20px 0 -36px;
     transform: scale(.6);
     vertical-align: middle;
 }
