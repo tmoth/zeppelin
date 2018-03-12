@@ -1,59 +1,122 @@
 -
-  id: 307
-  title: "Coffee Break"
+  id: 001
+  title: "Registration"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 002
+  title: "Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: 003
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Hall"
+  service: true
+  description: "Check the restaurants around the campus and Central Station, they serve great business lunches"
+-
+  id: 100
+  title: "Workshop 1"
+  description: "To be defined"
+  subtype: workshop
+  speakers: []
+  language: en
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  id: 101
+  title: "Workshop 2"
+  description: "To be defined"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  service: true
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  id: 102
+  title: "Workshop 3"
+  description: "To be defined"
+  subtype: workshop
+  speakers: []
+  language: en
+  service: true
+-
+  id: 103
+  title: "Workshop 4"
+  description: "To be defined"
+  subtype: workshop
+  speakers: []
+  language: en
+  service: true
+-
+  id: 104
+  title: "Workshop 5"
+  description: "To be defined"
+  subtype: workshop
+  speakers: []
+  language: en
+  service: true
+-
+  id: 105
+  title: "Workshop 6"
+  description: "To be defined"
+  subtype: workshop
+  speakers: []
+  language: en
+  service: true
+-
+  id: 106
+  title: "Opening ceremony"
+  description: ""
   subtype: presentation
-  speakers: [4, 5]
+  speakers: []
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  service: true
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 107
+  title: "Dutch evaluation competition"
+  description: ""
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: []
+  language: nl
+  service: true
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 108
+  title: "Dutch speech competition"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: nl
+  service: true
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  id: 109
+  title: "English evaluation competition"
+  description: ""
+  subtype: presentation
+  speakers: []
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  service: true
+-
+  id: 110
+  title: "English speech competition"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+-
+  id: 111
+  title: "Interviews with the contestants"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+-
+  id: 112
+  title: "Closing ceremony"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
