@@ -30,10 +30,10 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, toastmaster, the hague, conference, competition"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+twitterAccount: "#divisionNconf"
+socialImageSrcGooglePlus: "/img/seo/division-n-banner.png"
+socialImageSrcTwitter: "/img/seo/division-n-banner.png"
+socialImageSrcFacebook: "/img/seo/division-n-banner.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -168,6 +168,10 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "https://toastmasters.nl/en/how-toastmasters-works", text: "What is Toastmasters?"}
+ -
+  title: "Resources"
+  links:
+   - {permalink: "https://drive.google.com/drive/folders/1XAH1b9-7S5ka5ltd8I0TRnlXHhv31T_s?usp=sharing", text: "Media Kit"}
 
 
 # Blog

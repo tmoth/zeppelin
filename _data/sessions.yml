@@ -18,23 +18,21 @@
   description: "Check the restaurants around the campus and Central Station, they serve great business lunches"
 -
   id: 100
-  title: "Workshop 1"
-  description: "To be defined"
+  title: "Navigating Your Professional Career Path"
+  description: "Empower yourself to make the career change you want. Colleen shares the six elements needed to successfully navigate a career in this global economy and meet the challenges of evolving careers in this interactive session. This session equips you to find your way forward in today’s world of work where careers develop in anything but a straight line. "
   subtype: workshop
-  speakers: []
+  speakers: [1]
   language: en
-  service: true
 -
   id: 101
-  title: "Workshop 2"
+  title: "Pathways - The New Toastmasters Educational Program"
   description: "To be defined"
   subtype: workshop
   speakers: []
   language: en
-  service: true
 -
   id: 102
-  title: "Workshop 3"
+  title: "Workshop"
   description: "To be defined"
   subtype: workshop
   speakers: []
@@ -42,23 +40,21 @@
   service: true
 -
   id: 103
-  title: "Workshop 4"
-  description: "To be defined"
+  title: "Navigating Your Professional Career Path"
+  description: "Empower yourself to make the career change you want. Colleen shares the six elements needed to successfully navigate a career in this global economy and meet the challenges of evolving careers in this interactive session. This session equips you to find your way forward in today’s world of work where careers develop in anything but a straight line. "
   subtype: workshop
-  speakers: []
+  speakers: [1]
   language: en
-  service: true
 -
   id: 104
-  title: "Workshop 5"
+  title: "Pathways - The New Toastmasters Educational Program"
   description: "To be defined"
   subtype: workshop
   speakers: []
   language: en
-  service: true
 -
   id: 105
-  title: "Workshop 6"
+  title: "Workshop"
   description: "To be defined"
   subtype: workshop
   speakers: []

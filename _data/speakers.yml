@@ -9,3 +9,14 @@
   rockstar: false
   social:
     - {name: "site", link: ""}
+-
+  id: 1
+  name: "Colleen"
+  surname: "Reichrath"
+  company: "CJS Career Consulting"
+  title: ""
+  bio: "Colleen Reichrath believes that the knowing how to navigate career transitions is an essential skill for success in today's world. That's why she equips people with the career development tools they need to navigate their own careers across occupational boundaries, international borders and economic changes, creating a personally meaningful career in today's labour market. Colleen is co-author of A Career in Your Suitcase and certified as a Global Career Development Facilitator.<br/><br/>In 1998 Colleen started CJS Career Consulting in Canada and in 2006 she took her career on an international adventure to the Netherlands. Applying the same skills she teaches in her presentations and workshops, within two years she had learned the Dutch language and was facilitating career development training as a freelancer again, but this time in Dutch."
+  thumbnailUrl: ColleenReichrath.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://cjscareers.com/"}
