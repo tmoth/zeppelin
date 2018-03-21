@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Division N Spring Conference"
 email: "devfest@gdg.org.ua"
-description: "Annual Toastmasters Public Speaking Competition"
+description: "Annual Toastmasters Public Speaking Competition. April 14. The Hague. Doors open at 10 AM."
 baseurl: ""
 url: "http://divisionnconf.nl/"
 permalink: "/blog/:title"
