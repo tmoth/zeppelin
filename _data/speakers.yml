@@ -20,3 +20,14 @@
   rockstar: false
   social:
     - {name: "site", link: "http://cjscareers.com/"}
+-
+  id: 2
+  name: "Joa"
+  surname: "Hoexum"
+  company: "Vitality Solutions"
+  title: "Founder"
+  bio: "Joan Hoexum is an international speaker, NLP trainer, coach trainer, coach and author. She is the founder of Vitality Solutions nlp training coaching consultancy and is based in The Hague. A firm believer in the infiniteness of the human mental capacity, she helps people find their own unique path towards personal leadership. She is experienced in helping people overcome fears, whether of public speaking, flying and other phobias. She has also helped numerous people quit smoking and release excess body weight. Her book \"Morgen is Vandaag\" has just been translated into English: Tomorrow is Today - A life of worth as public professional"
+  thumbnailUrl: Joan.jpeg
+  rockstar: false
+  social:
+    - {name: "site", link: "https://www.vitality-solutions.com/en/joan- hoexum/"}

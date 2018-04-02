@@ -32,12 +32,11 @@
   language: en
 -
   id: 102
-  title: "Workshop"
-  description: "To be defined"
+  title: "Introduction NLP"
+  description: "Neuro-Linguistic Programming (NLP) has won worldwide recognition as a powerful set of tools available for improving communication, thinking and problem-solving. It is widely applied as a technology to achieve superior performance at both the personal and the professional level. NLP is used extensively in business, management, human resource development, communication, sport, health promotion and coaching."
   subtype: workshop
-  speakers: []
+  speakers: [2]
   language: en
-  service: true
 -
   id: 103
   title: "Navigating Your Professional Career Path"
@@ -54,12 +53,11 @@
   language: en
 -
   id: 105
-  title: "Workshop"
-  description: "To be defined"
+  title: "Introduction NLP"
+  description: "Neuro-Linguistic Programming (NLP) has won worldwide recognition as a powerful set of tools available for improving communication, thinking and problem-solving. It is widely applied as a technology to achieve superior performance at both the personal and the professional level. NLP is used extensively in business, management, human resource development, communication, sport, health promotion and coaching."
   subtype: workshop
-  speakers: []
+  speakers: [2]
   language: en
-  service: true
 -
   id: 106
   title: "Opening ceremony"
@@ -116,3 +114,36 @@
   speakers: []
   language: en
   service: true
+-
+  id: 113
+  title: "Registration ???"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+-
+  id: 114
+  title: "Contestants briefing"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+-
+  id: 115
+  title: "Judging team briefing"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+-
+  id: 116
+  title: "German speech competition"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  service: true
+
