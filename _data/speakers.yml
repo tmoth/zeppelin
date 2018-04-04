@@ -22,7 +22,7 @@
     - {name: "site", link: "http://cjscareers.com/"}
 -
   id: 2
-  name: "Joa"
+  name: "Joan"
   surname: "Hoexum"
   company: "Vitality Solutions"
   title: "Founder"
@@ -39,4 +39,14 @@
   title: "DTM"
   bio: "Mia Benjamin has 14 years Toastmaster’s experience, including earning her DTM and serving in various club officer roles. Currently, she is a dual member of TMOTH and Unilever Toasties. She has helped set up 3 clubs: community club Rotterdam Toastmasters, plus 2 company clubs - Shell Toastmasters at Rijswijk and Unilever Toasties. For about 10 years now, Mia has been giving various educational sessions at the biannual Officers’ Training.<br/><br/>As Pathways Ambassador since 2014 and now also as Pathways Guide, Mia has been heavily involved in helping members in The Netherlands prepare for Pathways. Mia’s mottos are “learning by doing” and “leading by example” so of course she has already started the path Dynamic Leadership and done her Icebreaker!"
   thumbnailUrl: MiaBenjamin.jpg
+  rockstar: false
+-
+  id: 4
+  name: "Carol"
+  surname: "Bausor"
+  company: "Toastmasters"
+  title: ""
+  bio: "Carol joined Toastmasters in 2010, after being convinced that, since she often went to Paris for business, she could certainly organise herself to go there twice a month for Toastmasters meetings! She enjoyed it so much and, since there was no club in her home town of Lyon, she created one!  Today she is a member of 3 clubs, and is also one of the District Assistants for Club Creation, a job she enjoys very much.  Carol discovered that she really loves competing, but as a Trainer by profession, this year she jumped at the chance to be Pathways Ambassador, (and continue to compete!).<br/><br/>Carol was rather surprised that the clubs she was asked to advise are ... in The Netherlands!  She decided the best way to be of service was first of all to get to know them by actually coming to the Division Conference on April 14th.  She is totally impressed by  Pathways, and looking forward to sharing her enthusiasm.
+"
+  thumbnailUrl: CarolBausor.jpeg
   rockstar: false
