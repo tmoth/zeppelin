@@ -23,12 +23,12 @@
         sessionIds: [404, 103, 104, 105]
     }
     - {
-    	startTime: "11:15",
+    	startTime: "12:15",
     	endTime: "13:00",
     	sessionIds: [003]
     }
     - {
-        startTime: "12:00",
+        startTime: "12:15",
         endTime: "13:00",
         sessionIds: [404, 114, 115, 404]
     }
