@@ -69,35 +69,31 @@
 -
   id: 107
   title: "Dutch evaluation competition"
-  description: ""
+  description: "<b>Contest Master:</b> Arnout Nederpelt<br><br><b>Competitors:</b><br>Markwin van Veelen<br>Otto Erkelens<br>Tom Taekema<br>Stefan van Happen<br>Marcel Stoffels"
   subtype: presentation
   speakers: []
   language: nl
-  service: true
 -
   id: 108
   title: "Dutch speech competition"
-  description: ""
+  description: "<b>Contest Master:</b> Els Kajwahula<br><br><b>Competitors:</b><br>Arash Rahmani<br>Mimi Oosterveen<br>Harvey Weder<br>John Roes<br>Stefan van Happen"
   subtype: presentation
   speakers: []
   language: nl
-  service: true
 -
   id: 109
   title: "English evaluation competition"
-  description: ""
+  description: "<b>Contest Master:</b> Rayna van Alst<br><br><b>Competitors:</b><br>Kristina Walther<br>Shanica Romney<br>Alireza Parpaei<br>Doreen Brett<br>Shashidhar Bangalore Lakshmana"
   subtype: presentation
   speakers: []
   language: en
-  service: true
 -
   id: 110
   title: "English speech competition"
-  description: ""
+  description: "<b>Contest Master:</b> Muktha Muralee<br><br><b>Contestants:</b><br>Sam Lubis<br>Bianca Wiedmann<br>Dirceu da Silva<br>Helmi Tatanaki<br>Marcel Stoffels<br>Alexandru Sutii<br>"
   subtype: presentation
   speakers: []
   language: en
-  service: true
 -
   id: 111
   title: "Interviews with the contestants"
@@ -141,9 +137,8 @@
 -
   id: 116
   title: "German speech competition"
-  description: ""
+  description: "<b>Contest Master:</b> Frans Blok<br><br><b>Competitors:</b><br>Bianca Wiedmann<br>Alois Popp"
   subtype: presentation
   speakers: []
-  language: en
-  service: true
+  language: ge
 
