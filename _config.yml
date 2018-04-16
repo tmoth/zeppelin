@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Division N Spring Conference"
 email: "devfest@gdg.org.ua"
-description: "Annual Toastmasters Public Speaking Competition. April 14. The Hague. Doors open at 10 AM."
+description: "Annual Toastmasters Public Speaking Competition. April 14, 2018. The Hague. Doors open at 10 AM."
 baseurl: ""
 url: "http://divisionnconf.nl/"
 permalink: "/blog/:title"
@@ -46,18 +46,18 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
 bottomNavigationLinks:
- - {link: "#tickets", text: "Register"}
+ - {link: "https://www.facebook.com/pg/ToastmastersNL/photos/?tab=album&album_id=1897962160214069", text: "Check the photos"}
 rightNavigationButtons:
- - {link: "#tickets", text: "Register"}
+ - {link: "https://www.facebook.com/pg/ToastmastersNL/photos/?tab=album&album_id=1897962160214069", text: "Check the photos"}
 
 # Hero Block
 heroImage: "toastmasters-hero.jpg"
 heroTitle: "Annual Toastmasters <br/>Public Speaking Competition"
-eventDate: "April 14"
+eventDate: "April 14, 2018"
 typeoutTextValues: ''
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "https://www.facebook.com/pg/ToastmastersNL/photos/?tab=album&album_id=1897962160214069", text: "Check the photos"}
 
 # About Block
 aboutTitle: "What to expect?"
